@@ -12,7 +12,7 @@ noremap t <DOWN>
 noremap s <RIGHT>
 noremap h <LEFT>
 
-inoremap n <UP>
-inoremap t <DOWN>
-inoremap s <RIGHT>
-inoremap h <LEFT>
+vnoremap n <UP>
+vnoremap t <DOWN>
+vnoremap s <RIGHT>
+vnoremap h <LEFT>
