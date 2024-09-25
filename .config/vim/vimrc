@@ -1,0 +1,18 @@
+set nu
+set rnu
+
+set textwidth=80
+set tabstop=4
+set shiftwidth=4
+set expandtab
+set noshiftround
+
+noremap n <UP>
+noremap t <DOWN>
+noremap s <RIGHT>
+noremap h <LEFT>
+
+inoremap n <UP>
+inoremap t <DOWN>
+inoremap s <RIGHT>
+inoremap h <LEFT>
